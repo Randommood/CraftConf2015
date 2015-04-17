@@ -23,6 +23,8 @@ The talk is broken down in 3 main sessions:
 
 The epic soundtrack to this talk can be found on the [CraftConfTalk](https://open.spotify.com/user/randommood/playlist/6DWpHPDyR2F7yBZW4iKL2U) Spotify playlist.
 
+![XKCD code quality](http://imgs.xkcd.com/comics/code_quality.png)
+
 
 # References
 
@@ -55,3 +57,4 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 ### DevOpsy
 * [Adam Jacob's ChefConf 2015 keynote](https://www.youtube.com/watch?v=_DEToXsgrPc) & https://github.com/chef/devops-kungfu
 * [ChefConf 2014: Jamie Winsor, "The Berkshelf Vision"](https://www.youtube.com/watch?v=Dq_vGxd-jps)
+
