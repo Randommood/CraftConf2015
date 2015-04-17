@@ -16,8 +16,7 @@ The talk is broken down in 3 main sessions:
 * Testing Distributed Systems
   * Challenges of testing
   * Distributed System Testing in Academia
-* Distributed System Testing in Industry
-  * Continuous Integration
+* Continuous Integration
   * CI challenges
   * Patterns
 * Conclusions
@@ -27,4 +26,32 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 
 # References
 
+### Distributed Systems Testing
 * [My RICON 2014 talk](https://github.com/Randommood/RICON2014) has a deeper look into academic testing.
+
+### Testing practices
+* http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
+* http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/
+* http://java.dzone.com/articles/canary-tests
+
+### Continuous Integration
+* http://martinfowler.com/articles/continuousIntegration.html
+* http://www.thoughtworks.com/continuous-integration
+* http://www.amazon.com/gp/product/0321336380
+* http://www.slant.co/topics/186/compare/~circleci_vs_shippable_vs_codeship
+* https://www.quora.com/What-is-the-difference-between-Bamboo-CircleCI-CIsimple-Ship-io-Codeship-Jenkins-Hudson-Semaphoreapp-Shippable-Solano-CI-TravisCI-and-Wercker
+
+
+### Code Quality
+* https://codeclimate.com/
+
+### Continuous Delivery
+* https://www.chef.io/solutions/continuous-delivery/
+* [ChefConf 2015: Chef Delivery talk](https://www.youtube.com/watch?v=fMyWM2LkwBk) & [Slides](https://speakerdeck.com/sfalcon/delivery-with-chef)
+* https://github.com/opscode-cookbooks/delivery-truck
+* https://github.com/chef/delivery-cli
+* [Package Management in Chef](https://www.youtube.com/watch?v=-HJ7EZ85THU&index=34&list=PL11cZfNdwNyO9CpTWH2qjYfzysEtpfOCd)
+
+### DevOpsy
+* [Adam Jacob's ChefConf 2015 keynote](https://www.youtube.com/watch?v=_DEToXsgrPc) & https://github.com/chef/devops-kungfu
+* [ChefConf 2014: Jamie Winsor, "The Berkshelf Vision"](https://www.youtube.com/watch?v=Dq_vGxd-jps)
