@@ -35,8 +35,10 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 * http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
 * http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/
 * http://java.dzone.com/articles/canary-tests
+* http://martinfowler.com/bliki/TestPyramid.html
 
 ### Continuous Integration
+* http://en.wikipedia.org/wiki/Continuous_integration
 * http://martinfowler.com/articles/continuousIntegration.html
 * http://www.thoughtworks.com/continuous-integration
 * http://www.amazon.com/gp/product/0321336380
@@ -48,6 +50,7 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 * https://codeclimate.com/
 
 ### Continuous Delivery
+* [Continuous Deployment @ Flickr](https://vimeo.com/24542044)
 * https://www.chef.io/solutions/continuous-delivery/
 * [ChefConf 2015: Chef Delivery talk](https://www.youtube.com/watch?v=fMyWM2LkwBk) & [Slides](https://speakerdeck.com/sfalcon/delivery-with-chef)
 * https://github.com/opscode-cookbooks/delivery-truck
@@ -57,4 +60,9 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 ### DevOpsy
 * [Adam Jacob's ChefConf 2015 keynote](https://www.youtube.com/watch?v=_DEToXsgrPc) & https://github.com/chef/devops-kungfu
 * [ChefConf 2014: Jamie Winsor, "The Berkshelf Vision"](https://www.youtube.com/watch?v=Dq_vGxd-jps)
+* [How does Etsy manage development and operations](https://codeascraft.com/2011/02/04/how-does-etsy-manage-development-and-operations/)
+* [Flickr](http://code.flickr.net/2009/12/02/flipping-out/)
+* [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](http://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr)
 
+### General
+* http://en.wikipedia.org/wiki/Linear_system
