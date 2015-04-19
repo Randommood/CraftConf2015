@@ -36,6 +36,11 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 * http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/
 * http://java.dzone.com/articles/canary-tests
 * http://martinfowler.com/bliki/TestPyramid.html
+* http://google-engtools.blogspot.com/2011/06/testing-at-speed-and-scale-of-google.html
+* http://googletesting.blogspot.com/
+* [Development at Google](http://www.infoq.com/presentations/Development-at-Google) and [slides](https://qconsf.com/sf2010/dl/qcon-sanfran-2010/slides/AshishKumar_DevelopingProductsattheSpeedandScaleofGoogle.pdf)
+* [How Google tests software](http://ptgmedia.pearsoncmg.com/images/9780321803023/samplepages/0321803027.pdf)
+* [Google Test and Automation Conference](https://developers.google.com/google-test-automation-conference/2014/presentations)
 
 ### Continuous Integration
 * http://en.wikipedia.org/wiki/Continuous_integration
@@ -66,3 +71,6 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 
 ### General
 * http://en.wikipedia.org/wiki/Linear_system
+
+### Video Playlist
+* [My CraftConf 2015 CI playlist](https://www.youtube.com/playlist?list=PLEthkXlpCZSVapdLBkxKXigVKIUhe8P8o)
