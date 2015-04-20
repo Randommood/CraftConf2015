@@ -49,6 +49,7 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 * http://www.amazon.com/gp/product/0321336380
 * http://www.slant.co/topics/186/compare/~circleci_vs_shippable_vs_codeship
 * https://www.quora.com/What-is-the-difference-between-Bamboo-CircleCI-CIsimple-Ship-io-Codeship-Jenkins-Hudson-Semaphoreapp-Shippable-Solano-CI-TravisCI-and-Wercker
+* [CircleCI Configuration](https://circleci.com/docs/configuration)
 
 
 ### Code Quality
@@ -61,6 +62,7 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 * https://github.com/opscode-cookbooks/delivery-truck
 * https://github.com/chef/delivery-cli
 * [Package Management in Chef](https://www.youtube.com/watch?v=-HJ7EZ85THU&index=34&list=PL11cZfNdwNyO9CpTWH2qjYfzysEtpfOCd)
+* [On Delivery lumosity blogpost](http://engineering.lumosity.com/operations/2012/02/04/on-delivery/)
 
 ### DevOpsy
 * [Adam Jacob's ChefConf 2015 keynote](https://www.youtube.com/watch?v=_DEToXsgrPc) & https://github.com/chef/devops-kungfu
@@ -74,3 +76,7 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 
 ### Video Playlist
 * [My CraftConf 2015 CI playlist](https://www.youtube.com/playlist?list=PLEthkXlpCZSVapdLBkxKXigVKIUhe8P8o)
+
+
+## Thank You
+Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Caitie McCaffrey, Jordan West, Jon Hyman, Bruce Spang, Devon O’Dell, Kelsey Gilmore-Innis, Aysylu Greenberg, Alan Kasindorf, Paul Reed, André Arko, Mike O’Neill, Thomas Mahoney, Eric Kustarz, Ian Fung, Neha Narula, Karl Smith, and Greg Bako.
