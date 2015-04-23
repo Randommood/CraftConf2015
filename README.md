@@ -1,6 +1,6 @@
 # Testing and Integration (The Remix)
 
-Accompanying repository for the "Testing and Integration (The Remix)" talk given at [CraftConf 2015](craft-conf.com/2015). Feel free to open any issues for questions and/or to say hi :)
+Accompanying repository for the "Testing and Integration (The Remix)" talk given at [CraftConf 2015](http://craft-conf.com/2015). Feel free to open any issues for questions and/or to say hi :)
 
 ## Abstract
 Let's face it, testing distributed systems is hard.  Large number of inputs, partial failures, and asynchrony make these systems seemingly impossible to verify.  Formal testing methods are onerous and system correctness continues to elude us.
@@ -10,7 +10,7 @@ Come to this talk for a fresh and practical look into the various aspects of dis
 
 
 ## Talk Outline
-See the [image credits](credits.md) - link to slides and video coming soon.
+See the [image credits](credits.md) and link to [slides](https://speakerdeck.com/randommood/testing-and-integration-the-remix). Video link coming soon.
 
 The talk is broken down in 3 main sessions:
 * Testing Distributed Systems
