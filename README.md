@@ -21,7 +21,7 @@ The talk is broken down in 3 main sessions:
   * Patterns
 * Conclusions
 
-The epic soundtrack to this talk can be found on the [CraftConfTalk](https://open.spotify.com/user/randommood/playlist/6DWpHPDyR2F7yBZW4iKL2U) Spotify playlist.
+The epic soundtrack to this talk can be found on the [CraftConfTalk](https://open.spotify.com/user/randommood/playlist/6DWpHPDyR2F7yBZW4iKL2U) Spotify playlist. If you liked this talk and you are interested in Computer Science check out [Papers We Love](http://paperswelove.org/). We have chapters in many cities and aim to bring academic research close to practitioners.
 
 ![XKCD code quality](http://imgs.xkcd.com/comics/code_quality.png)
 
@@ -76,8 +76,9 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 ### General
 * http://en.wikipedia.org/wiki/Linear_system
 
-### Video Playlist
+### Media Playlists
 * [My CraftConf 2015 CI playlist](https://www.youtube.com/playlist?list=PLEthkXlpCZSVapdLBkxKXigVKIUhe8P8o)
+* [My CraftConf Talk Spotify playlist](https://open.spotify.com/user/randommood/playlist/6DWpHPDyR2F7yBZW4iKL2U)
 
 
 ## Thank You
