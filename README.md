@@ -34,13 +34,17 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 ### Testing practices
 * http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
 * http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/
-* http://java.dzone.com/articles/canary-tests
+* [Canary Tests](http://java.dzone.com/articles/canary-tests)
 * http://martinfowler.com/bliki/TestPyramid.html
 * http://google-engtools.blogspot.com/2011/06/testing-at-speed-and-scale-of-google.html
 * http://googletesting.blogspot.com/
 * [Development at Google](http://www.infoq.com/presentations/Development-at-Google) and [slides](https://qconsf.com/sf2010/dl/qcon-sanfran-2010/slides/AshishKumar_DevelopingProductsattheSpeedandScaleofGoogle.pdf)
 * [How Google tests software](http://ptgmedia.pearsoncmg.com/images/9780321803023/samplepages/0321803027.pdf)
 * [Google Test and Automation Conference](https://developers.google.com/google-test-automation-conference/2014/presentations)
+* [Golang Testing](http://www.golang-book.com/12/index.htm)
+* [Unit Testing in Golang](http://whizdumb.me/2015/01/21/unit-testing-in-golang/)
+* [TDD in Golang](http://blog.stretchr.com/2014/03/05/test-driven-development-specifically-in-golang/)
+* [Canary Analyze All The Things: How We Learned to Keep Calm and Release Often](http://www.infoq.com/presentations/canary-analysis-deployment-pattern) by Roy Rapoport of Netflix
 
 ### Continuous Integration
 * http://en.wikipedia.org/wiki/Continuous_integration
@@ -50,9 +54,13 @@ The epic soundtrack to this talk can be found on the [CraftConfTalk](https://ope
 * http://www.slant.co/topics/186/compare/~circleci_vs_shippable_vs_codeship
 * https://www.quora.com/What-is-the-difference-between-Bamboo-CircleCI-CIsimple-Ship-io-Codeship-Jenkins-Hudson-Semaphoreapp-Shippable-Solano-CI-TravisCI-and-Wercker
 * [CircleCI Configuration](https://circleci.com/docs/configuration)
+* [TravisCI Getting Started](http://docs.travis-ci.com/user/getting-started/)
+* [TravisCI Common build problems](http://docs.travis-ci.com/user/common-build-problems/)
+* [Flickr's flipping out blogpost](http://code.flickr.net/2009/12/02/flipping-out/)
 
 ### Accessibility
 * http://www.karlgroves.com/2014/03/13/everything-you-know-about-accessibility-testing-is-wrong-part-4/
+* http://pivotallabs.com/accessibility-ci-failures/
 
 ### Code Quality
 * https://codeclimate.com/
