@@ -10,7 +10,7 @@ Come to this talk for a fresh and practical look into the various aspects of dis
 
 
 ## Talk Outline
-See the [image credits](credits.md) and link to [slides](https://speakerdeck.com/randommood/testing-and-integration-the-remix). Video link coming soon.
+See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/testing-and-integration-the-remix), and [video](http://www.ustream.tv/recorded/61449003)
 
 The talk is broken down in 3 main sessions:
 * Testing Distributed Systems
